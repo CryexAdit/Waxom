@@ -1,0 +1,15 @@
+    font-family: 'Montserrat', sans-serif;
+
+    font-family: "Montserrat-ultralight";
+    
+    font-family: 'Raleway', sans-serif;
+
+    .hover_part:hover {
+    color: #c7b299;
+}
+.hover_part img {
+    filter: grayscale(100%);
+}
+.hover_part img:hover {
+    filter: grayscale(0%);
+}
